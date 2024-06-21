@@ -8,10 +8,8 @@
   <a href="https://t.me/Marat_Petrovskiy">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=covest2051&style=flat-square&color=blue" alt=""/>
 :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
